@@ -71,7 +71,9 @@ The model performed well with a 77% accuracy, and more importantly, it achieved 
 
 ---
 
-🔗 [Click here to view the Jupyter Notebook](https://github.com/ISHA301/-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Analysis.ipynb)
+## 📄 Jupyter Notebook
+
+🔗 **[Click here to view the full Jupyter Notebook for Customer Churn Prediction](https://github.com/ISHA301/-Customer-Churn-Prediction/blob/main/Customer%20Churn%20Analysis.ipynb)**
 
 
 
