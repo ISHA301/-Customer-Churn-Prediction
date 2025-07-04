@@ -4,7 +4,7 @@ This project focuses on predicting customer churn using a real-world telecom dat
 
 ---
 
-## 📁 Project Overview
+## 📁 Project Overview 
 
 ### **Business Context**  
 Churn (customer leaving the service) can significantly impact revenue. By analyzing historical customer data, we can understand the characteristics of customers who tend to churn and take action accordingly.
